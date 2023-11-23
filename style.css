@@ -3,12 +3,34 @@ html {
 }
 
 body {
+    margin: 0;
+    padding: 0;
+}
+
+#bgimg {
+    background-image: url(./images/neoncitylights1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: auto;  
+    
 
 }
 
 .header {
-    background-image: url(./);
+    
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
 
+li {
+    
+}
+
+a {
+    text-decoration: none;
+}
 
